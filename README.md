@@ -74,5 +74,4 @@ CampusExchange follows a **Three-Tier Client-Server Architecture**:
 ## Author
 
 **Ng Wei Kit**
-Sungai Buloh, Selangor, Malaysia
-weikit829@gmail.com
+
