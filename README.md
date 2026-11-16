@@ -4,9 +4,9 @@ A campus second-hand e-commerce platform where students can buy and sell items s
 
 Final Year Project for the Diploma in Software Engineering (E-Commerce & Financial Technology), New Era Institute of Vocational & Continuing Education.
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="865" height="460" alt="image" src="https://github.com/user-attachments/assets/696938c6-8822-48ed-b2c9-22d9a08d5325" />
+<img width="865" height="460" alt="image-1" src="https://github.com/user-attachments/assets/0057ccba-1d0c-4a64-aa63-965ecf3f9179" />
+<img width="865" height="165" alt="image-2" src="https://github.com/user-attachments/assets/a923c953-40be-42b3-8135-1574deca937b" />
 
 ## Features
 
